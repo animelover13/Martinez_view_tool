@@ -20,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+ MartinezViewTool::Renderer.copyright 'Monica Martinez', 'All rights reserved'
+ ```
+ 
 
 ## Development
 
